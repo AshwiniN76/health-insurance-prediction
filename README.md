@@ -19,5 +19,6 @@ ataset
 This project uses the public [Medical Cost Personal Dataset](https://www.kaggle.com/datasets/mirichoi0218/insurance).
 
 YouTube Presentation
-Video will be uploaded soon
+https://youtu.be/N2rr75gfjLQ
+
 
